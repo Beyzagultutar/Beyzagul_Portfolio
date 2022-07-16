@@ -1,7 +1,7 @@
 # Beyzagul_Portfolio
 Data Analytics Portfolio
 
-# [Project 1: Analyzing Bellabeat Usage] (https://www.kaggle.com/code/beyzagltutar/bellabeat-with-r-beyza-g-l-tutar/notebook)
+# [Project 1: Analyzing Bellabeat's Product and Usage](https://www.kaggle.com/code/beyzagltutar/bellabeat-with-r-beyza-g-l-tutar/notebook)
 
 This is a project I did for my Google Data Analytics Professional Certificate, where I analyze the usage of Bellabeat's products.
 
