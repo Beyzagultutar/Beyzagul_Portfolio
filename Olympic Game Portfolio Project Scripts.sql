@@ -71,7 +71,7 @@ FROM olympics_history
 GROUP BY games
 ORDER BY no_of_sports_played DESC;
 
--- The oldest athletes to win a gold medal.
+-- The youngest athletes to win a gold medal.
 WITH t1 AS
 	(SELECT name, sex, age, team, games, city, sport, event, medal
 	FROM olympics_history
