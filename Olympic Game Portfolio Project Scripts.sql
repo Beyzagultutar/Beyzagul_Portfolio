@@ -109,7 +109,7 @@ SELECT *
 FROM ranking
 WHERE rank <= 5;
 
--- The top 5 athletes who have won the most medals (gold/silver/bronze
+-- The top 5 athletes who have won the most medals (gold/silver/bronze)
 With athletes_with_medals AS
 	(SELECT name, COUNT(1) AS total_medals
 	FROM olympics_history
