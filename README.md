@@ -11,7 +11,7 @@ This is a project I did for my Google Data Analytics Professional Certificate, w
 
 # [Project 2: A deep analysis of 120 years of Olympic Games from 1896 to 2016](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) 
 
-* [Click for Project Scripts](https://github.com/Beyzagultutar/Beyzagul_Portfolio/blob/main/Olympic%20Game%20Portfolio%20Project%20Scripts.sql)
-* [Click for Visualization](https://public.tableau.com/app/profile/beyza.g.l/viz/OlympicGamesVisualization_16631486389730/Dashboard1)
+* [Click for Project Scripts in PostgreSQL](https://github.com/Beyzagultutar/Beyzagul_Portfolio/blob/main/Olympic%20Game%20Portfolio%20Project%20Scripts.sql)
+* [Click for Visualization in Tableau](https://public.tableau.com/app/profile/beyza.g.l/viz/OlympicGamesVisualization_16631486389730/Dashboard1)
 * Skills showcased: Data analysis, communicating technical concepts
 * Tools used: SQL(PostgreSQL)
