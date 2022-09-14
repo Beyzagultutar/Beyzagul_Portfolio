@@ -7,7 +7,7 @@ This is a project I did for my Google Data Analytics Professional Certificate, w
 
 * Data was taken from the FitBit Fitness Tracker Dataset
 * Skills showcased: Data cleaning + prep, data analysis, data visualization, communicating technical concepts.
-* Tools used: Excel and R Programming Language
+* Tools used: Analysis(Ms Excel) and R Programming Language(for analysis and visualization)
 
 # [Project 2: A deep analysis of 120 years of Olympic Games from 1896 to 2016](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) 
 
