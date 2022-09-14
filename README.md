@@ -14,4 +14,4 @@ This is a project I did for my Google Data Analytics Professional Certificate, w
 * [Click for Project Scripts in PostgreSQL](https://github.com/Beyzagultutar/Beyzagul_Portfolio/blob/main/Olympic%20Game%20Portfolio%20Project%20Scripts.sql)
 * [Click for Visualization in Tableau](https://public.tableau.com/app/profile/beyza.g.l/viz/OlympicGamesVisualization_16631486389730/Dashboard1)
 * Skills showcased: Data analysis, communicating technical concepts
-* Tools used: SQL(PostgreSQL)
+* Tools used: Analysis(Ms Excel), SQL(PostgreSQL), Visualization(Tableau)
