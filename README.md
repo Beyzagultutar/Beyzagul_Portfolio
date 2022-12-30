@@ -4,8 +4,7 @@ Data Analytics Portfolio
 # [Project 1: Analyzing Bellabeat's Product and Usage](https://www.kaggle.com/code/beyzagltutar/bellabeat-with-r-beyza-g-l-tutar/notebook)
 * [Click for Project](https://www.kaggle.com/code/beyzagltutar/bellabeat-with-r-beyza-g-l-tutar/notebook)
 
-This is a project I did for my Google Data Analytics Professional Certificate, where I analyze the usage of Bellabeat's products.
-
+* This is a project I did for my Google Data Analytics Professional Certificate, where I analyze the usage of Bellabeat's products.
 * Data was taken from the FitBit Fitness Tracker Dataset
 * Skills showcased: Data cleaning + prep, data analysis, data visualization, communicating technical concepts.
 * Tools used: Analysis(Ms Excel) and R Programming Language(for analysis and visualization)
