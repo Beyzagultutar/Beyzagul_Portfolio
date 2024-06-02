@@ -16,4 +16,4 @@ Data Analytics Portfolio
 * Skills showcased: Data analysis, Data visualization
 * Tools used: Analysis(Ms Excel), SQL(PostgreSQL), Visualization(Tableau)
 
-# [Project 3: An analysis of sales made on Bike Stores 
+# [Project 3: An analysis of sales made on Bike Stores] 
