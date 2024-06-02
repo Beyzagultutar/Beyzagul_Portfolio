@@ -16,4 +16,7 @@ Data Analytics Portfolio
 * Skills showcased: Data analysis, Data visualization
 * Tools used: Analysis(Ms Excel), SQL(PostgreSQL), Visualization(Tableau)
 
-# [Project 3: An analysis of sales made on Bike Stores] 
+# [Project 3: An analysis of sales made on Bike Stores](https://github.com/Beyzagultutar/Beyzagul_Portfolio/blob/main/Bike-Sales-PythonProject1.ipynb)
+* [Click for Project Scripts in Python](https://github.com/Beyzagultutar/Beyzagul_Portfolio/blob/main/Bike-Sales-PythonProject1.ipynb)
+* Data was taken from FreeCodeCamp Course
+* Tools used: Analysis & Visualization (Python)
