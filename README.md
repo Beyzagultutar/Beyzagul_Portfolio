@@ -15,3 +15,5 @@ Data Analytics Portfolio
 * [Click for Visualization in Tableau](https://public.tableau.com/app/profile/beyza.g.l/viz/OlympicGamesVisualization_16631486389730/Dashboard1)
 * Skills showcased: Data analysis, Data visualization
 * Tools used: Analysis(Ms Excel), SQL(PostgreSQL), Visualization(Tableau)
+
+# [Project 3: An analysis of sales made on Bike Stores 
