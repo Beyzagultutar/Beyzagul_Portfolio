@@ -11,7 +11,7 @@ Below are selected projects showcasing my skills in machine learning, analytics,
 - Ranked **2nd on the class leaderboard**.  
 - **Skills:** Classification modeling, feature engineering, evaluation metrics.  
 - **Tools:** Python (scikit-learn, Pandas).  
-- 📂 [Project Scripts]([https://github.com/Beyzagultutar/Beyzagul_Portfolio/blob/main/Bike-Sales-PythonProject1.ipynb](https://github.com/Beyzagultutar/Beyzagul_Portfolio/blob/main/DA514-%20ML%20Project%20Kaggle.ipynb))  
+- 📂 [Project Scripts](https://github.com/Beyzagultutar/Beyzagul_Portfolio/blob/main/DA514-%20ML%20Project%20Kaggle.ipynb)  
 
 ---
 
