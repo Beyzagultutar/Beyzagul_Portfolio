@@ -6,7 +6,7 @@ Below are selected projects showcasing my skills in machine learning, analytics,
 
 ---
 
-## 🎯 [DA514 – Machine Learning (Loan Default Prediction)](https://www.kaggle.com/competitions/da514-default-prediction/leaderboard)  
+## [DA514 – Machine Learning (Loan Default Prediction)](https://www.kaggle.com/competitions/da514-default-prediction/leaderboard)  
 - Predicted customers likely to default on loans as part of a graduate-level machine learning course.  
 - Ranked **2nd on the class leaderboard**.  
 - **Skills:** Classification modeling, feature engineering, evaluation metrics.  
@@ -24,7 +24,7 @@ Below are selected projects showcasing my skills in machine learning, analytics,
 
 ---
 
-## 🏅 [Project 2: 120 Years of Olympic Games (1896–2016)](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)  
+## 📊 [Project 2: 120 Years of Olympic Games (1896–2016)](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)  
 - Analyzed athlete performance and medal distribution trends across 120 years of Olympic Games.  
 - Built interactive dashboards to highlight insights by country, sport, and gender.  
 - **Skills:** SQL querying, advanced visual analytics.  
@@ -43,8 +43,8 @@ Below are selected projects showcasing my skills in machine learning, analytics,
 ---
 
 ## 🛠 Skills Summary  
-- **Languages & Tools:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), R, SQL (PostgreSQL), Excel  
-- **Visualization:** Tableau, Looker Studio  
-- **Focus Areas:** Machine Learning, Business Intelligence, Data Cleaning, Exploratory Data Analysis, Dashboarding  
+- **Languages & Tools:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (PostgreSQL, Biquery), Excel  
+- **Visualization:** Tableau, Looker Studio, Quicksight
+- **Focus Areas:** Business Intelligence, Data Cleaning, Exploratory Data Analysis, Dashboards, Machine Learning,
 
 ---
